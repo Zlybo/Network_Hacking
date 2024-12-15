@@ -1,2 +1,2 @@
 "# Network_Hacking" \
-V1: design for a specific game
+V1: designed for a specific game
